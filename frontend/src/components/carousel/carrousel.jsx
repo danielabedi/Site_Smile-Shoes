@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 const Carousel = () => {
-  const images = ['Trendtation-removebg-preview.png', 'Brunsh-removebg-preview.png', 'removebg-preview.png']; // Ajoute les chemins de tes images ici
+  const images = ['Trendtation-removebg-preview.png', 'Brush-removebg-preview.png', 'Way-removebg-preview.png', 'removebg-preview.png']; // Ajoute les chemins de tes images ici
   const [currentImageIndex, setCurrentImageIndex] = useState(0);
 
   useEffect(() => {
@@ -9,7 +9,7 @@ const Carousel = () => {
       setCurrentImageIndex((prevIndex) =>
         prevIndex === images.length - 1 ? 0 : prevIndex + 1
       );
-    }, 30000); // Définit l'intervalle de 30 secondes
+    }, 10000); // Définit l'intervalle de 30 secondes
 
     return () => {
       clearInterval(timer);

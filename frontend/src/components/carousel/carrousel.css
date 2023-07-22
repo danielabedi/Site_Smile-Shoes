@@ -1,0 +1,37 @@
+.carousel {
+    display: flex;
+    width: 100%;
+    padding: 20px;
+    height: 40vh;
+}
+
+.carousel_left {
+    width: 45%;
+    padding-top: 20px;
+}
+
+.carousel_image {
+    width: 50%;
+    margin-left: 10px ;
+}
+
+.Home_title {
+    color: #FA7413;
+}
+
+.Home_description {
+    color: white;
+    margin: 15px 0 15px 0;
+    font-weight: bold;
+}
+
+.cta-button {
+    color: white;
+    background-color: #FA7413;
+    border-radius: 10px;
+    border: none;
+    width: 7em;
+    height: 25px;
+    font-weight: bold;
+    cursor: pointer;
+}

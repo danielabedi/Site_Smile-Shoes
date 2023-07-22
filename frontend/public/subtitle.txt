@@ -1,0 +1,95 @@
+I think why front-end
+development is different is you have to work
+with designers, you've got to work
+with product managers. It's fundamentally
+very collaborative. It's got the right-brain
+algorithmic thinking and how to make
+things performant and work and then it's
+got the left-brain. How do you make things
+usable and enjoyable to use? I found my way into
+front-end engineering and now it's like I couldn't
+imagine leaving it. Hello, I'm Benedict Hobart. People call me Benny. I'm a
+software engineer at Meta. I think a lot of people that get into
+front-end engineering, they think about
+front-end engineering as an engineering problem
+and you're building stuff, you're solving a problem. When you're doing is
+building products for people and you're helping people solve their own problems. There's a lot of collaboration
+that comes with that, working with designers,
+working with PMs. You're not some
+programmer slouched over a desk typing away all day. It's highly collaborative environment
+you're stepping into. I started when I
+was fairly young with building a fan website
+for a game called EverQuest. I first started making
+websites around that time, but I never really considered
+it as a career path. I actually left
+building websites and came back to it
+later in university. I think where I really actually
+started treating it like a career was in my second
+year of university, I had a cool cousin who was a programmer then he was like, "You should
+do this subject." What helped me
+initially was that I was building something
+I was excited by. I think it's the practicality of solving problems
+with software, that was really appealing. A typical day is I'll start off working from home or getting into the office
+and reviewing code, helping, giving advice on how things could
+be built better. I often have meetings
+with designers and product managers on the
+things that we want to build. I support a lot of engineers solving the
+problems they have. It's wide and varied
+and I think that's the exciting thing about getting into
+software in general. There's a lot of space to be a different type of engineer. You could get excited
+about solving these really hard technical
+challenging problems. But if you're doing it without a purpose, I lose motivation. It's like knowing that there's someone at the
+end of the day I'm hoping helps me focus my energy
+on the problems that do need to be solved versus
+problems that don't. I've been working on
+encrypted messaging, which is seriously important
+for a number of reasons. You take it very seriously when you're
+building those products that allow people to communicate
+safely and privately. When you're solving a
+really hard problem, it's easy to think you're
+not making any progress. I think everyone talks about imposter syndrome
+in the industry. If you're not making progress and you
+putting in these hours, you start to think,
+should I even be there? Can I solve this problem? That's a hard thing to get over and that's probably
+the worst part of the job. Technically, I think
+you're going to learn a lot of what I do
+in this course, going through how to write code, how to make it work, how to make it accessible, and to shipping it to people. Javascript, HTML CSS, Git, these are all
+foundational that you'll find across every web
+development company. When it comes to soft skills, there's a lot of empathy trying to understand other
+people's perspectives. Engineers, we care
+about performance, we care about accessibility, we care about things
+being correct. It usually takes engineers
+a long time to understand designer's perspective or
+product manager's perspective because you think
+so algorithmically, you need to solve every problem versus that 80
+percent user problem. I work with a fantastic designer who actually jumps
+in on the diffs and I can ask him questions in the code and he can code a bit. I was talking about empathy, he has an understanding
+of the work I do and I've got an understanding
+of the work he does. At the end of the day, it's
+good to recognize that you're a software engineering
+and your job is to bring a lot of their
+vision to life. Likewise, a designer when get into your code and tell you how you should best to architect and structure your code, you need to give advice and
+you're there to support him. When you find an issue
+it's highly collaborative. A good front-end engineer will actually dip their
+toes into back-end. Problem-solving is
+consistently hard. Whenever you're learning
+and pushing yourself, you're going to run
+into roadblocks. Best advice is go
+easy on yourself. Going with the mentality
+that your goal is to grow and become a software
+engineer or a better person. Adopting a growth mindset to developing is going
+to be critical. Find time for yourself. I mean, it's not my place to talk about the psychology
+of being easy on yourself, but that's just as
+important as any of the engineering
+stuff you learn. For me personally,
+the role grows. As you build things and
+you solve problems, you get perspective
+into other problems and it's this idea of
+growing your scope. As an engineer yourself,
+how do you sort a list and how do you
+drop a list on a page? How do you make a button work? By the end of it, you're working on
+encrypted messaging. I think we're at a really exciting point in the industry, there are a lot of new
+exciting technologies. There are a lot of new ways and new products that
+are going to be built in the next coming
+years and finding those opportunities and solving new problems is
+deeply satisfying.

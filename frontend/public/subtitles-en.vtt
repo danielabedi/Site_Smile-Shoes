@@ -1,0 +1,683 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:01.800
+I think why front-end
+development is different
+
+2
+00:00:01.800 --> 00:00:03.690
+is you have to work
+with designers,
+
+3
+00:00:03.690 --> 00:00:05.550
+you've got to work
+with product managers.
+
+4
+00:00:05.550 --> 00:00:07.395
+It's fundamentally
+very collaborative.
+
+5
+00:00:07.395 --> 00:00:11.010
+It's got the right-brain
+algorithmic thinking
+
+6
+00:00:11.010 --> 00:00:12.449
+and how to make
+things performant
+
+7
+00:00:12.449 --> 00:00:14.055
+and work and then it's
+got the left-brain.
+
+8
+00:00:14.055 --> 00:00:17.085
+How do you make things
+usable and enjoyable to use?
+
+9
+00:00:17.085 --> 00:00:19.430
+I found my way into
+front-end engineering and
+
+10
+00:00:19.430 --> 00:00:22.490
+now it's like I couldn't
+imagine leaving it.
+
+11
+00:00:28.810 --> 00:00:31.450
+Hello, I'm Benedict Hobart.
+
+12
+00:00:31.450 --> 00:00:35.110
+People call me Benny. I'm a
+software engineer at Meta.
+
+13
+00:00:35.110 --> 00:00:36.740
+I think a lot of
+
+14
+00:00:36.740 --> 00:00:38.210
+people that get into
+front-end engineering,
+
+15
+00:00:38.210 --> 00:00:41.780
+they think about
+front-end engineering
+
+16
+00:00:41.780 --> 00:00:43.715
+as an engineering problem
+and you're building stuff,
+
+17
+00:00:43.715 --> 00:00:45.295
+you're solving a problem.
+
+18
+00:00:45.295 --> 00:00:47.630
+When you're doing is
+building products for
+
+19
+00:00:47.630 --> 00:00:48.830
+people and you're helping
+
+20
+00:00:48.830 --> 00:00:51.065
+people solve their own problems.
+
+21
+00:00:51.065 --> 00:00:52.730
+There's a lot of collaboration
+that comes with that,
+
+22
+00:00:52.730 --> 00:00:54.710
+working with designers,
+working with PMs.
+
+23
+00:00:54.710 --> 00:00:57.020
+You're not some
+programmer slouched
+
+24
+00:00:57.020 --> 00:00:59.455
+over a desk typing away all day.
+
+25
+00:00:59.455 --> 00:01:00.980
+It's highly
+
+26
+00:01:00.980 --> 00:01:03.275
+collaborative environment
+you're stepping into.
+
+27
+00:01:03.275 --> 00:01:05.600
+I started when I
+was fairly young
+
+28
+00:01:05.600 --> 00:01:09.535
+with building a fan website
+for a game called EverQuest.
+
+29
+00:01:09.535 --> 00:01:12.080
+I first started making
+websites around that time,
+
+30
+00:01:12.080 --> 00:01:14.890
+but I never really considered
+it as a career path.
+
+31
+00:01:14.890 --> 00:01:17.990
+I actually left
+building websites and
+
+32
+00:01:17.990 --> 00:01:21.350
+came back to it
+later in university.
+
+33
+00:01:21.350 --> 00:01:23.690
+I think where I really actually
+started treating it like
+
+34
+00:01:23.690 --> 00:01:26.180
+a career was in my second
+year of university,
+
+35
+00:01:26.180 --> 00:01:27.740
+I had a cool cousin who was
+
+36
+00:01:27.740 --> 00:01:29.120
+a programmer then he
+
+37
+00:01:29.120 --> 00:01:30.605
+was like, "You should
+do this subject."
+
+38
+00:01:30.605 --> 00:01:33.110
+What helped me
+initially was that I
+
+39
+00:01:33.110 --> 00:01:35.860
+was building something
+I was excited by.
+
+40
+00:01:35.860 --> 00:01:37.490
+I think it's the practicality
+
+41
+00:01:37.490 --> 00:01:39.530
+of solving problems
+with software,
+
+42
+00:01:39.530 --> 00:01:41.600
+that was really appealing.
+
+43
+00:01:41.600 --> 00:01:43.820
+A typical day is I'll start
+
+44
+00:01:43.820 --> 00:01:46.485
+off working from home
+
+45
+00:01:46.485 --> 00:01:48.710
+or getting into the office
+and reviewing code,
+
+46
+00:01:48.710 --> 00:01:50.705
+helping, giving advice on
+
+47
+00:01:50.705 --> 00:01:52.505
+how things could
+be built better.
+
+48
+00:01:52.505 --> 00:01:55.310
+I often have meetings
+with designers and
+
+49
+00:01:55.310 --> 00:01:58.370
+product managers on the
+things that we want to build.
+
+50
+00:01:58.370 --> 00:01:59.960
+I support a lot of
+
+51
+00:01:59.960 --> 00:02:02.470
+engineers solving the
+problems they have.
+
+52
+00:02:02.470 --> 00:02:04.620
+It's wide and varied
+and I think that's
+
+53
+00:02:04.620 --> 00:02:06.200
+the exciting thing about
+
+54
+00:02:06.200 --> 00:02:07.715
+getting into
+software in general.
+
+55
+00:02:07.715 --> 00:02:09.940
+There's a lot of space to be
+
+56
+00:02:09.940 --> 00:02:11.895
+a different type of engineer.
+
+57
+00:02:11.895 --> 00:02:14.270
+You could get excited
+about solving
+
+58
+00:02:14.270 --> 00:02:17.390
+these really hard technical
+challenging problems.
+
+59
+00:02:17.390 --> 00:02:18.800
+But if you're doing it without
+
+60
+00:02:18.800 --> 00:02:21.050
+a purpose, I lose motivation.
+
+61
+00:02:21.050 --> 00:02:22.820
+It's like knowing that
+
+62
+00:02:22.820 --> 00:02:24.875
+there's someone at the
+end of the day I'm hoping
+
+63
+00:02:24.875 --> 00:02:27.200
+helps me focus my energy
+on the problems that
+
+64
+00:02:27.200 --> 00:02:29.780
+do need to be solved versus
+problems that don't.
+
+65
+00:02:29.780 --> 00:02:32.000
+I've been working on
+encrypted messaging,
+
+66
+00:02:32.000 --> 00:02:36.590
+which is seriously important
+for a number of reasons.
+
+67
+00:02:36.590 --> 00:02:37.670
+You take it very
+
+68
+00:02:37.670 --> 00:02:39.860
+seriously when you're
+building those products
+
+69
+00:02:39.860 --> 00:02:44.119
+that allow people to communicate
+safely and privately.
+
+70
+00:02:44.119 --> 00:02:46.295
+When you're solving a
+really hard problem,
+
+71
+00:02:46.295 --> 00:02:48.800
+it's easy to think you're
+not making any progress.
+
+72
+00:02:48.800 --> 00:02:50.780
+I think everyone talks
+
+73
+00:02:50.780 --> 00:02:53.020
+about imposter syndrome
+in the industry.
+
+74
+00:02:53.020 --> 00:02:54.530
+If you're not making
+
+75
+00:02:54.530 --> 00:02:56.345
+progress and you
+putting in these hours,
+
+76
+00:02:56.345 --> 00:02:58.070
+you start to think,
+should I even be there?
+
+77
+00:02:58.070 --> 00:02:59.450
+Can I solve this problem?
+
+78
+00:02:59.450 --> 00:03:02.120
+That's a hard thing to get
+
+79
+00:03:02.120 --> 00:03:04.920
+over and that's probably
+the worst part of the job.
+
+80
+00:03:04.920 --> 00:03:06.490
+Technically, I think
+you're going to learn
+
+81
+00:03:06.490 --> 00:03:08.255
+a lot of what I do
+in this course,
+
+82
+00:03:08.255 --> 00:03:10.325
+going through how to write code,
+
+83
+00:03:10.325 --> 00:03:12.275
+how to make it work,
+
+84
+00:03:12.275 --> 00:03:13.915
+how to make it accessible,
+
+85
+00:03:13.915 --> 00:03:16.785
+and to shipping it to people.
+
+86
+00:03:16.785 --> 00:03:19.940
+Javascript, HTML CSS, Git,
+
+87
+00:03:19.940 --> 00:03:21.320
+these are all
+foundational that you'll
+
+88
+00:03:21.320 --> 00:03:24.815
+find across every web
+development company.
+
+89
+00:03:24.815 --> 00:03:26.330
+When it comes to soft skills,
+
+90
+00:03:26.330 --> 00:03:27.800
+there's a lot of empathy
+
+91
+00:03:27.800 --> 00:03:29.840
+trying to understand other
+people's perspectives.
+
+92
+00:03:29.840 --> 00:03:32.120
+Engineers, we care
+about performance,
+
+93
+00:03:32.120 --> 00:03:33.349
+we care about accessibility,
+
+94
+00:03:33.349 --> 00:03:37.010
+we care about things
+being correct.
+
+95
+00:03:37.010 --> 00:03:40.070
+It usually takes engineers
+a long time to understand
+
+96
+00:03:40.070 --> 00:03:44.150
+designer's perspective or
+product manager's perspective
+
+97
+00:03:44.150 --> 00:03:46.010
+because you think
+so algorithmically,
+
+98
+00:03:46.010 --> 00:03:47.270
+you need to solve every problem
+
+99
+00:03:47.270 --> 00:03:50.560
+versus that 80
+percent user problem.
+
+100
+00:03:50.560 --> 00:03:52.910
+I work with a fantastic designer
+
+101
+00:03:52.910 --> 00:03:54.800
+who actually jumps
+in on the diffs and
+
+102
+00:03:54.800 --> 00:03:56.270
+I can ask him questions in
+
+103
+00:03:56.270 --> 00:03:58.695
+the code and he can code a bit.
+
+104
+00:03:58.695 --> 00:03:59.985
+I was talking about empathy,
+
+105
+00:03:59.985 --> 00:04:01.970
+he has an understanding
+of the work I
+
+106
+00:04:01.970 --> 00:04:04.190
+do and I've got an understanding
+of the work he does.
+
+107
+00:04:04.190 --> 00:04:07.880
+At the end of the day, it's
+good to recognize that you're
+
+108
+00:04:07.880 --> 00:04:10.220
+a software engineering
+and your job is to
+
+109
+00:04:10.220 --> 00:04:14.220
+bring a lot of their
+vision to life.
+
+110
+00:04:14.680 --> 00:04:16.760
+Likewise, a designer when
+
+111
+00:04:16.760 --> 00:04:17.945
+get into your code and tell you
+
+112
+00:04:17.945 --> 00:04:19.310
+how you should best to architect
+
+113
+00:04:19.310 --> 00:04:20.635
+and structure your code,
+
+114
+00:04:20.635 --> 00:04:23.960
+you need to give advice and
+you're there to support him.
+
+115
+00:04:23.960 --> 00:04:26.755
+When you find an issue
+it's highly collaborative.
+
+116
+00:04:26.755 --> 00:04:28.080
+A good front-end engineer will
+
+117
+00:04:28.080 --> 00:04:30.990
+actually dip their
+toes into back-end.
+
+118
+00:04:30.990 --> 00:04:33.150
+Problem-solving is
+consistently hard.
+
+119
+00:04:33.150 --> 00:04:37.195
+Whenever you're learning
+and pushing yourself,
+
+120
+00:04:37.195 --> 00:04:39.450
+you're going to run
+into roadblocks.
+
+121
+00:04:39.450 --> 00:04:42.000
+Best advice is go
+easy on yourself.
+
+122
+00:04:42.000 --> 00:04:45.440
+Going with the mentality
+that your goal is to grow
+
+123
+00:04:45.440 --> 00:04:50.375
+and become a software
+engineer or a better person.
+
+124
+00:04:50.375 --> 00:04:52.325
+Adopting a growth mindset to
+
+125
+00:04:52.325 --> 00:04:56.790
+developing is going
+to be critical.
+
+126
+00:04:56.790 --> 00:04:58.020
+Find time for yourself.
+
+127
+00:04:58.020 --> 00:05:01.220
+I mean, it's not my place
+
+128
+00:05:01.220 --> 00:05:04.460
+to talk about the psychology
+of being easy on yourself,
+
+129
+00:05:04.460 --> 00:05:06.230
+but that's just as
+important as any
+
+130
+00:05:06.230 --> 00:05:08.755
+of the engineering
+stuff you learn.
+
+131
+00:05:08.755 --> 00:05:11.490
+For me personally,
+the role grows.
+
+132
+00:05:11.490 --> 00:05:13.940
+As you build things and
+you solve problems,
+
+133
+00:05:13.940 --> 00:05:16.090
+you get perspective
+into other problems
+
+134
+00:05:16.090 --> 00:05:19.670
+and it's this idea of
+growing your scope.
+
+135
+00:05:19.670 --> 00:05:22.160
+As an engineer yourself,
+how do you sort
+
+136
+00:05:22.160 --> 00:05:23.990
+a list and how do you
+drop a list on a page?
+
+137
+00:05:23.990 --> 00:05:25.100
+How do you make a button work?
+
+138
+00:05:25.100 --> 00:05:26.270
+By the end of it,
+
+139
+00:05:26.270 --> 00:05:28.550
+you're working on
+encrypted messaging.
+
+140
+00:05:28.550 --> 00:05:30.290
+I think we're at a really
+
+141
+00:05:30.290 --> 00:05:31.690
+exciting point in the industry,
+
+142
+00:05:31.690 --> 00:05:33.785
+there are a lot of new
+exciting technologies.
+
+143
+00:05:33.785 --> 00:05:36.155
+There are a lot of new ways
+
+144
+00:05:36.155 --> 00:05:38.000
+and new products that
+are going to be built in
+
+145
+00:05:38.000 --> 00:05:41.570
+the next coming
+years and finding
+
+146
+00:05:41.570 --> 00:05:43.160
+those opportunities and solving
+
+147
+00:05:43.160 --> 00:05:47.130
+new problems is
+deeply satisfying.

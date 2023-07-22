@@ -1,17 +1,18 @@
-import React from 'react';
-import './navbar.css';
+import Humberger from '../btn/Humberger.jsx';
+import '../StyleComponent.css';
 
 const Navbar = () => {
+
+
   return (
     <nav className="navbar">
-      <div className="navbar_logo">
+      <div  className="navbar_logo">
         <img src="logo.png" alt="Logo" />
       </div>
-      <div className="navbar_menu">
-        <button className="navbar_menu-button">
-          <img className="menu" src="icons8-menu-50.png" alt="" />
-        </button>
+      <div className="">
+        <Humberger/>
       </div>
+    
     </nav>
   );
 };

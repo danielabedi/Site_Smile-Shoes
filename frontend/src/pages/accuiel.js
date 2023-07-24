@@ -6,11 +6,15 @@ import '../App.css';
 export default function Home () {
     return(
        <div className="">
-         <Navbar/>
-         <div className="Home_carrousel">
-           <Carousel/>
-         </div>
-     
+            <Navbar/>
+          <div className="Home_carrousel">
+            <Carousel/>
+          </div>
+            <h2 className="Hom_text">Rends tes chaussures propres</h2>
+          <div className="Home_card">
+          <img className="Home_img" src="preview.png" alt=""/>
+          
+          </div>
        </div>
 
     )

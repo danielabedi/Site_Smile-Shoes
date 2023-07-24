@@ -6,7 +6,7 @@
 }
 
 .carousel_left {
-    width: 45%;
+    width: 40%;
     padding-top: 20px;
 }
 
@@ -33,5 +33,18 @@
     width: 7em;
     height: 25px;
     font-weight: bold;
+    animation: outlineblink 1s linear infinite;
     cursor: pointer;
 }
+
+@keyframes outlineblink {
+    10% {
+      outline: none;
+    }
+    30% {
+      outline: 2px solid #e66407;
+    }
+    100% {
+      outline: none;
+    }
+  }

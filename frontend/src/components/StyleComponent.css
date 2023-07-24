@@ -1,11 +1,14 @@
 /* Navbar Style*/
 .navbar {
     display: flex;
+    position: sticky;
+    top: 0px;
     align-items: center;
     justify-content: space-between;
     padding: 5%;
     background-color: #004B75;
     height: 80px;
+    box-shadow: 0px 4px 4px 0px #03172a40;
   }
 
  .navbar_logo img{

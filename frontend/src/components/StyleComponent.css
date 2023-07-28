@@ -53,4 +53,35 @@
   /* Animation apparition */ 
   
 
- 
+/* Style Footer*/
+.footer {
+  background:#0a689f;
+  margin-top: 30px;
+  height: 500px;
+  /* padding: 30px; */
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; */
+  text-align: center;
+}
+
+.footer_logo {
+  width: 200px;
+  height: 200px;
+  
+}
+
+.footer_description {
+  color: rgb(255, 255, 255);
+}
+
+.footer_social {
+  color: white;
+  /* display: flex;
+  justify-content: center;    */
+}
+.sociel_icon {
+  width: 30px;
+  height: 30px;
+  margin: 20px 10px;
+}

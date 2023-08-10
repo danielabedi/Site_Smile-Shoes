@@ -15,20 +15,22 @@
     margin-left: 10px ;
 }
 
-.Home_title {
+.carousel_title {
     color: #FA7413;
+    font-family: 'Abel', sans-serif;
 }
 
-.Home_description {
+.carousel_description {
     color: white;
     margin: 15px 0 15px 0;
     font-weight: bold;
+    font-family: 'Abel', sans-serif;
 }
 
 .cta-button {
     color: white;
     background-color: #FA7413;
-    border-radius: 10px;
+    border-radius: 6px;
     border: none;
     width: 7em;
     height: 25px;

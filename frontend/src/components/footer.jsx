@@ -4,12 +4,23 @@ import './StyleComponent.css'
 const Footer = () => {
     return (
       <footer className="footer">
-        <div className="">
-          <img className='footer_logo' src="logo.png" alt="Logo" />
-          {/* <p>Chaussures propres</p> */}
+        <div className="footer_logos">
+          <img className='footer_logo' src="/public/../img/logo.png" alt="Logo" />
         </div>
         <div className="footer_description">
-          <p>Smile_Shoes est une entreprise de nettoyage de chaussures offrant des services de nettoyage de haute qualité et de cordonnerie. Notre objectif est de rendre vos chaussures impeccables et de vous faire sourire à chaque pas.</p>
+          <h3>SERVICES</h3>
+          <ul>
+            <li>NETTOYAGE CHAUSSURE</li>
+            <li>CORDONNIERIS</li>
+            <li>AUTRES SERVICE</li>
+          </ul>
+          <h3>Àpropos</h3>
+          <ul>
+            <li>NETTOYAGE CHAUSSURE</li>
+            <li>CORDONNIERIS</li>
+            <li>AUTRES SERVICE</li>
+          </ul>
+
         </div>
         <div className="footer_social">
           <FaFacebook className='sociel_icon'/>

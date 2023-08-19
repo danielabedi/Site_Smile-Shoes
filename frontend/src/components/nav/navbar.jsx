@@ -1,5 +1,5 @@
 import Humberger from '../btn/Humberger.jsx';
-import '../StyleComponent.css';
+import '../../style/StyleComponents/Component.css';
 
 const Navbar = () => {
 
@@ -7,12 +7,12 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div  className="navbar_logo">
-        <img src="/public/../img/logo.png" alt="Logo" />
+        <img src="../img/logo.png" alt="Logo" />
       </div>
       <div className="">
         <Humberger/>
       </div>
-    
+
     </nav>
   );
 };

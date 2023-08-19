@@ -1,15 +1,14 @@
 import React from 'react';
 import Home from './pages/accuiel.js';
-import FormulaireCommande from './pages/commande.js';
-import Catalogue from './pages/catalogue.js';
-import './App.css';
+// import Catalogue from './pages/catalogue.js';
+// import Commande from './commande/commande.js';
+import './style/App.css';
 
 function App() {
   return (
     <div className="App">
-       {/* <Home/> */}
-       {/* <FormulaireCommande/> */}
-       <Catalogue />
+       <Home/>
+       {/* <Commande /> */}
     </div>
   );
 }

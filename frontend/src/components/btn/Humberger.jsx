@@ -1,7 +1,7 @@
 import { FaBars } from 'react-icons/fa'; 
 import { FaTimes } from 'react-icons/fa';
 import { useState } from 'react';
-import '../StyleComponent.css';
+import '../../style/StyleComponents/Component.css';
 
 const Humberger = () => {
 

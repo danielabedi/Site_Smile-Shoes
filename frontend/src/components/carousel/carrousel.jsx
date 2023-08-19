@@ -22,7 +22,7 @@ const Carousel = () => {
        <div className="carousel_left">
            <h1 className="carousel_title">SMILE SHOES</h1>
            <p className="carousel_description">Vos chaussures vont sourire de propriété</p>
-           <button className="cta-button">Clique ici</button>
+           <button className="cta-buttons">Clique ici</button>
        </div>
           
        <img

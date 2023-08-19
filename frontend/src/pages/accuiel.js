@@ -4,7 +4,7 @@ import Carousel from "../components/carousel/carrousel.jsx";
 import Card from "../components/card.jsx";
 import Cards from "../components/cards.jsx";
 import Footer from "../components/footer.jsx";
-import '../App.css';
+import '../style/App.css';
 
 export default function Home () {
     return(
@@ -16,7 +16,7 @@ export default function Home () {
             <h2 className="Hom_text">Rends tes chaussures propres</h2>
 
             <Card/>
-            <Card/>
+            {/* <Card/> */}
             <Cards/>
             <Footer/>
        </div>
